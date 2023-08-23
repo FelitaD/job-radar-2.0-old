@@ -5,6 +5,7 @@ Improve [Job Radar 1.0](https://github.com/FelitaD/job-radar-1.0) by modifying t
 
 ## Steps to modify Job Radar 1.0
 
-- [Migrate Postgres to Snowflake](https://github.com/FelitaD/Learning-in-Public/blob/main/Databases/Data%20Lakes%20%26%20Data%20Warehouses/Snowflake/Migrate%20Postgres%20to%20Snowflake.md)
-- [Setup dbt](https://github.com/FelitaD/Learning-in-Public/tree/main/dbt/Fundamentals)
-- [Parsing keywords with regex](https://github.com/FelitaD/Learning-in-Public/blob/main/dbt/Parsing%20keywords%20with%20regex.md) (preprocess title and text columns)
+- [x] [Migrate Postgres to Snowflake](https://github.com/FelitaD/Learning-in-Public/blob/main/Databases/Data%20Lakes%20%26%20Data%20Warehouses/Snowflake/Migrate%20Postgres%20to%20Snowflake.md)
+
+- [ ] dbt transformation in [job-radar-2.0-transform](https://github.com/FelitaD/job-radar-2.0-transform)
+
